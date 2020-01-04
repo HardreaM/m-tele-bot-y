@@ -1,8 +1,6 @@
 import telebot
 import pyowm
 
-owm = pyowm.OWM('24a157d72fb30e42793f3a31fddaf0a8', language="ru")
-bot = telebot.TeleBot('696901837:AAG5FGOBWEmmBFgNgAT86CwajAVlB6mKYno')
 
 temp_list = []
 
